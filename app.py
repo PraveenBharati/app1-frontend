@@ -15,7 +15,7 @@ def home():
 
     return jsonify(
         service="frontend",
-        ui_message="Hello from Frontend",
+        ui_message="Hello from Praveen Front-end",
         backend_response=backend_response
     )
 
